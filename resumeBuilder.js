@@ -24,7 +24,7 @@ var bio = {
      	    "degree": "Bachelors", 	
             "majors": ["CIS"],
             "dates": 2014,
-            "url": "http://everestuniversity.org"
+            "url": "http://everest.edu"
         }
     ],
    "onlineCourses": [
