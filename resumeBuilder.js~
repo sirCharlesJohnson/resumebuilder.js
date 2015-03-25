@@ -26,7 +26,7 @@ var bio = {
              "majors": ["IST"],
              "dates": 2015, 
              "url": "http://strayer.edu"
-         },
+         }
         
          {
             "name": "Everest University",

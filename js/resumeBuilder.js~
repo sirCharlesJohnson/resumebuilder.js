@@ -4,7 +4,7 @@ var bio = {
     "contacts" : {
         "mobile": "407-234-8985",
         "email": "johcha7@yahoo.com",
-        "location": "Orlando Florida"
+        "location": "Orlando"
     },
     "welcomeMessage": "Welcome to my Live Resume!",
 
@@ -18,23 +18,13 @@ var bio = {
 
  var education = {
     "schools": [
-        
-         {
-             "name": "Stayer University",
-             "location": "Maitland, FL",
-             "degree": "Master Of Science",
-             "majors": ["IST"],
-             "dates": 2015, 
-             "url": "http://strayer.edu"
-         },
-        
          {
             "name": "Everest University",
             "location": "Orlando, FL",
      	    "degree": "Bachelors", 	
             "majors": ["CIS"],
             "dates": 2014,
-            "url": "http://everest.edu"
+            "url": "http://everestuniversity.org"
         }
     ],
    "onlineCourses": [
@@ -60,6 +50,13 @@ var bio = {
      },
 
      {
+       "title": "Python Basics",
+       "school" : "Treehouse",
+       "dates": 2015,
+       "url": "http://www.teamtreehouse.com"
+     },
+
+     {
        "title": "Java Basics",
        "school" : "Treehouse",
        "dates": 2015,
@@ -68,27 +65,6 @@ var bio = {
 
      {
        "title": "Java Objects",
-       "school" : "Treehouse",
-       "dates": 2015,
-       "url": "http://www.teamtreehouse.com"
-     },
-     
-     {
-       "title": "Python Basics",
-       "school" : "Treehouse",
-       "dates": 2015,
-       "url": "http://www.teamtreehouse.com"
-     },
-     
-     {
-       "title": "Python Collections",
-       "school" : "Treehouse",
-       "dates": 2015,
-       "url": "http://www.teamtreehouse.com"
-     },
-     
-     {
-       "title": "Object-Oriented Python",
        "school" : "Treehouse",
        "dates": 2015,
        "url": "http://www.teamtreehouse.com"
@@ -166,7 +142,7 @@ var work = {
       "employer": "Olive Garden",
       "title": "Busser",
       "dates": "April 2012 - 2013",
-      "description": "Setting and clearing dining room tables as well as making sure the dining room looked good."
+      "description": "Setting on clearing dining room tables as well as making sure the dining room looked good."
     },
 
     {
