@@ -4,7 +4,7 @@ var bio = {
     "contacts" : {
         "mobile": "407-234-8985",
         "email": "johcha7@yahoo.com",
-        "location": "Orlando"
+        "location": "Orlando Florida"
     },
     "welcomeMessage": "Welcome to my Live Resume!",
 
@@ -24,7 +24,7 @@ var bio = {
      	    "degree": "Bachelors", 	
             "majors": ["CIS"],
             "dates": 2014,
-            "url": "http://everestuniversity.org"
+            "url": "http://everest.edu"
         }
     ],
    "onlineCourses": [
@@ -142,7 +142,7 @@ var work = {
       "employer": "Olive Garden",
       "title": "Busser",
       "dates": "April 2012 - 2013",
-      "description": "Setting on clearing dining room tables as well as making sure the dining room looked good."
+      "description": "Setting and clearing dining room tables as well as making sure the dining room looked good."
     },
 
     {
