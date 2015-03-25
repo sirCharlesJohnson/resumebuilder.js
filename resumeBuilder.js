@@ -18,6 +18,16 @@ var bio = {
 
  var education = {
     "schools": [
+        
+         {
+             "name": "Stayer University",
+             "location": "Maitland, FL",
+             "degree": "Master Of Science",
+             "majors": ["IST"],
+             "dates": 2015, 
+             "url": "http://strayer.edu"
+         }
+        
          {
             "name": "Everest University",
             "location": "Orlando, FL",
@@ -50,13 +60,6 @@ var bio = {
      },
 
      {
-       "title": "Python Basics",
-       "school" : "Treehouse",
-       "dates": 2015,
-       "url": "http://www.teamtreehouse.com"
-     },
-
-     {
        "title": "Java Basics",
        "school" : "Treehouse",
        "dates": 2015,
@@ -65,6 +68,27 @@ var bio = {
 
      {
        "title": "Java Objects",
+       "school" : "Treehouse",
+       "dates": 2015,
+       "url": "http://www.teamtreehouse.com"
+     },
+     
+     {
+       "title": "Python Basics",
+       "school" : "Treehouse",
+       "dates": 2015,
+       "url": "http://www.teamtreehouse.com"
+     },
+     
+     {
+       "title": "Python Collections",
+       "school" : "Treehouse",
+       "dates": 2015,
+       "url": "http://www.teamtreehouse.com"
+     },
+     
+     {
+       "title": "Object-Oriented Python",
        "school" : "Treehouse",
        "dates": 2015,
        "url": "http://www.teamtreehouse.com"
