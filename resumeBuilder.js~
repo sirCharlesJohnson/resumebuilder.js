@@ -4,12 +4,14 @@ var bio = {
     "contacts" : {
         "mobile": "407-234-8985",
         "email": "johcha7@yahoo.com",
+        "github": "sirCharlesJohnson",
+        "twitter": "@johcha7",
         "location": "Orlando Florida"
     },
     "welcomeMessage": "Welcome to my Live Resume!",
 
     "skills" : [
-        "Java", " Javascript", " C++ ", " Python"
+        "Java", " Javascript", " C++ ", " Python", "GitHub"
     ],
     "bioPic": "images/me.jpg"
 
